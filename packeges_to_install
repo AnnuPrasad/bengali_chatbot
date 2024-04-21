@@ -1,0 +1,11 @@
+!pip install SpeechRecognition
+!pip install pydub
+!pip install classes
+!pip install bnlp
+!pip install tk
+!apt-get install -y xvfb
+!pip install pyvirtualdisplay
+!pip install nltk
+!pip install tensorflow
+!pip install random
+!pip install numpy
